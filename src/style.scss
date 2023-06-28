@@ -1,0 +1,57 @@
+/* nav section */
+.NavWrapper {
+    background-color: #009ABF;
+
+    .navList a {
+        color: #fff !important;
+        font-size: 1rem;
+        font-weight: bold;
+
+        .courses {
+            color: #1E7DB7 !important;
+        }
+      }
+
+      .curiooLogo a img {
+        width: 100px; 
+        height: 40px;
+        object-fit: contain;
+        margin-left: 100px;
+      }
+        .languages {
+            border: 1px solid #C7D4E2;
+            width: 70px;
+            height: 30px;
+            margin-right: 120px; 
+            margin-left: 100px;
+            display: flex;
+            border-radius: 3px;
+            text-align: center;
+            
+            .thLanguage, .enLanguage {
+                width: 100%;
+                height: 100%;
+                background-color: #C7D4E2;
+                color: #fff;
+                font-size: 12px;
+                
+            }
+              
+          }
+      
+      
+      
+      
+  }
+
+
+//   hero section 
+
+.heroWrapper {
+ 
+}
+
+
+  
+  
+  
